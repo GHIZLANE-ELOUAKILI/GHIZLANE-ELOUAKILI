@@ -195,11 +195,11 @@ I don't just write code. I architect experiences. I'm driven by the intersection
 
 *I'm always open to collaborations, ideas, and good conversations.*
 
-<a href="https://github.com/GhizlaneElouakili">
+<a href="https://github.com/GHIZLANE-ELOUAKILI">
   <img src="https://img.shields.io/badge/Follow%20on%20GitHub-%23161B22?style=for-the-badge&logo=github&logoColor=A78BFA" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/ghizlane-elouakili">
+<a href="https://www.linkedin.com/in/ghizlane-elouakili-17925a34a/">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
