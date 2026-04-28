@@ -12,10 +12,10 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-<a href="https://github.com/GhizlaneElouakili">
+<a href="https://github.com/GHIZLANE-ELOUAKILI">
   <img src="https://img.shields.io/badge/GitHub-%23161B22.svg?style=for-the-badge&logo=github&logoColor=A78BFA" />
 </a>
-<a href="https://linkedin.com/in/ghizlane-elouakili">
+<a href="https://www.linkedin.com/in/ghizlane-elouakili-17925a34a/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=GhizlaneElouakili&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
@@ -27,7 +27,7 @@
 <!-- ABOUT ME -->
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
-## `> whoami`
+
 
 I'm **Ghizlane** — a Computer Science student from Morocco with an obsession for building things that *actually matter*.
 
