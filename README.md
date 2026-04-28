@@ -1,142 +1,215 @@
-<!--- 
-  Professional Portfolio README
-  Ghizlane Elouakili — Software Engineer in Progress
-  Tech mastery: HTML, CSS, JS, C, Java, Express, UI/UX, PHP, Git, GitHub, Shell, Networking
-  Design: Cinematic, dark, structured, quietly powerful
---->
 
 <div align="center">
 
-<!-- Hero Section: Clean, impactful -->
-<h1 style="font-weight: 500; font-size: 3rem; letter-spacing: -0.02em; margin-bottom: 0.25rem; background: linear-gradient(135deg, #F0EBE4, #C9B2A6); background-clip: text; -webkit-background-clip: text; color: transparent;">
-  Ghizlane Elouakili
-</h1>
+<!-- BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ghizlane%20Elouakili&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20in%20the%20Making%20·%20Morocco%20🇲🇦&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<p style="font-size: 0.9rem; letter-spacing: 0.15rem; text-transform: uppercase; color: #C9B2A6; font-weight: 400;">
-  Software Engineering · Full Stack Trajectory
-</p>
-
-<p style="font-size: 0.85rem; color: #A79A8C; border-top: 1px solid #2C2A28; border-bottom: 1px solid #2C2A28; display: inline-block; padding: 0.5rem 1.8rem; margin-top: 0.8rem;">
-  Casablanca, Morocco · 🇲🇦
-</p>
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+the+future+of+knowledge+%F0%9F%9A%80;Full-Stack+Developer+%7C+Innovator+%7C+Builder;Turning+ideas+into+platforms+that+matter;she%2Fher+%C2%B7+CS+Student+%C2%B7+Dreamer+%26+Doer" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- Professional motto (less theatrical) -->
-<p style="color: #C9BEB2; font-size: 0.95rem; max-width: 550px; margin: 1.2rem auto 0; font-style: normal; border-left: 2px solid #C9B2A6; padding-left: 1rem; text-align: left;">
-  Building robust systems with precision and poetic logic.  
-  Code that speaks, architectures that endure.
-</p>
+<!-- SOCIAL BADGES -->
+<a href="https://github.com/GhizlaneElouakili">
+  <img src="https://img.shields.io/badge/GitHub-%23161B22.svg?style=for-the-badge&logo=github&logoColor=A78BFA" />
+</a>
+<a href="https://linkedin.com/in/ghizlane-elouakili">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=GhizlaneElouakili&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 
 </div>
 
-<div style="height: 1px; background: linear-gradient(90deg, transparent, #C9B2A6, transparent); width: 35%; margin: 1.8rem auto;"></div>
+---
 
-<!-- Professional summary: crisp, value-driven -->
-<div align="center" style="max-width: 720px; margin: 1.5rem auto; text-align: center;">
-  <p style="color: #D4C7BB; font-size: 0.95rem; line-height: 1.6;">
-    Software engineering student with a deep passion for backend logic, clean UI, and network architecture.  
-    I combine technical rigor (<strong>JavaScript, Java, C, PHP, Shell</strong>) with an eye for human experience (<strong>UI/UX, Figma</strong>).  
-    Current focus: building <strong>Mind Library</strong> — an intellectual social platform where books become conversations.
-  </p>
+<!-- ABOUT ME -->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+
+## `> whoami`
+
+I'm **Ghizlane** — a Computer Science student from Morocco with an obsession for building things that *actually matter*.
+
+I don't just write code. I architect experiences. I'm driven by the intersection of **technology, creativity, and human impact** — and I'm just getting started.
+
+- 🔭 Currently building **Mind Library** — my most ambitious project yet
+- 🌱 Deepening my skills in **JavaScript**, **Web Architecture**, and **Systems Design**
+- 💡 Passionate about platforms that connect people and democratize knowledge
+- ⚡ I believe great software is like great art — intentional, impactful, and timeless
+- 📍 Building from Morocco, dreaming globally
+
+<br clear="right"/>
+
+---
+
+<!-- MIND LIBRARY SECTION -->
+
+<div align="center">
+
+## ✦ Current Mission
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&width=80%" />
+
 </div>
 
-<!-- Core Competencies: Structured with Logos (All requested technologies) -->
-<h2 style="font-weight: 500; font-size: 1.5rem; border-left: 4px solid #C9B2A6; padding-left: 1rem; margin: 2rem 0 1rem 0; color: #ECE3DA;">
-  ⚡ Core Competencies
-</h2>
+<br/>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 0.8rem; margin-bottom: 2rem;">
+<div align="center">
+<table>
+<tr>
+<td align="center" width="100%">
 
-  <div style="background: #131110; border-radius: 12px; padding: 0.5rem 0.8rem; display: flex; align-items: center; gap: 10px; border: 0.5px solid #2A2622;">
-    <img src="https://cdn.simpleicons.org/html5/E34F26" width="20" height="20"> <span style="font-size: 0.85rem;">HTML5 / CSS3</span>
-  </div>
-  <div style="background: #131110; border-radius: 12px; padding: 0.5rem 0.8rem; display: flex; align-items: center; gap: 10px; border: 0.5px solid #2A2622;">
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="20" height="20"> <span style="font-size: 0.85rem;">JavaScript (ES6+)</span>
-  </div>
-  <div style="background: #131110; border-radius: 12px; padding: 0.5rem 0.8rem; display: flex; align-items: center; gap: 10px; border: 0.5px solid #2A2622;">
-    <img src="https://cdn.simpleicons.org/c/A8B9CC" width="20" height="20"> <span style="font-size: 0.85rem;">C (procedural)</span>
-  </div>
-  <div style="background: #131110; border-radius: 12px; padding: 0.5rem 0.8rem; display: flex; align-items: center; gap: 10px; border: 0.5px solid #2A2622;">
-    <img src="https://cdn.simpleicons.org/java/007396" width="20" height="20"> <span style="font-size: 0.85rem;">Java (OOP)</span>
-  </div>
-  <div style="background: #131110; border-radius: 12px; padding: 0.5rem 0.8rem; display: flex; align-items: center; gap: 10px; border: 0.5px solid #2A2622;">
-    <img src="https://cdn.simpleicons.org/express/000000" width="20" height="20" style="filter: invert(0.7);"> <span style="font-size: 0.85rem;">Express.js</span>
-  </div>
-  <div style="background: #131110; border-radius: 12px; padding: 0.5rem 0.8rem; display: flex; align-items: center; gap: 10px; border: 0.5px solid #2A2622;">
-    <img src="https://cdn.simpleicons.org/php/777BB4" width="20" height="20"> <span style="font-size: 0.85rem;">PHP</span>
-  </div>
-  <div style="background: #131110; border-radius: 12px; padding: 0.5rem 0.8rem; display: flex; align-items: center; gap: 10px; border: 0.5px solid #2A2622;">
-    <img src="https://cdn.simpleicons.org/figma/F24E1E" width="20" height="20"> <span style="font-size: 0.85rem;">UI/UX (Figma)</span>
-  </div>
-  <div style="background: #131110; border-radius: 12px; padding: 0.5rem 0.8rem; display: flex; align-items: center; gap: 10px; border: 0.5px solid #2A2622;">
-    <img src="https://cdn.simpleicons.org/git/F05032" width="20" height="20"> <span style="font-size: 0.85rem;">Git & GitHub</span>
-  </div>
-  <div style="background: #131110; border-radius: 12px; padding: 0.5rem 0.8rem; display: flex; align-items: center; gap: 10px; border: 0.5px solid #2A2622;">
-    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="20" height="20"> <span style="font-size: 0.85rem;">Shell / Bash</span>
-  </div>
-  <div style="background: #131110; border-radius: 12px; padding: 0.5rem 0.8rem; display: flex; align-items: center; gap: 10px; border: 0.5px solid #2A2622;">
-    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 4c1.1 0 2 .9 2 2s-.9 2-2 2-2-.9-2-2 .9-2 2-2zm0 13c-2.33 0-4.31-1.46-5.11-3.5h10.22c-.8 2.04-2.78 3.5-5.11 3.5z" fill="#C9B2A6"/></svg>
-    <span style="font-size: 0.85rem;">Réseau / Networking</span>
-  </div>
+### 🧠 Mind Library
+
+**_Where knowledge meets community._**
+
+> A next-generation platform merging a **digital library**, a **social network**, and **knowledge communities** into one unified ecosystem.
+
+</td>
+</tr>
+</table>
 </div>
 
-<!-- Featured Project: Mind Library (professional layout) -->
-<h2 style="font-weight: 500; font-size: 1.5rem; border-left: 4px solid #C9B2A6; padding-left: 1rem; margin: 1rem 0 1rem 0; color: #ECE3DA;">
-  📌 Featured Project
-</h2>
+| Feature | Vision |
+|---|---|
+| 📚 **Digital Library** | Upload, discover, and read books, papers & resources |
+| 🌐 **Social Network** | Follow thinkers, share ideas, build your intellectual circle |
+| 🏘️ **Communities** | Topic-based spaces where curious minds gather |
+| 🤖 **AI Layer** *(roadmap)* | Personalized recommendations & smart search |
 
-<div style="background: #131110; border-radius: 24px; padding: 1.5rem; border: 0.5px solid #2A2622; margin-bottom: 1.8rem;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 1rem;">
-    <div style="flex: 2;">
-      <h3 style="font-size: 1.6rem; font-weight: 500; margin: 0 0 0.3rem 0; color: #EADBCE;">Mind Library</h3>
-      <p style="color: #BBADA0; margin-bottom: 0.8rem;">A digital ecosystem where books meet social dialogue. Users upload, annotate, and build knowledge communities.</p>
-      <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1rem;">
-        <span style="background: #1F1C19; padding: 0.2rem 0.8rem; border-radius: 30px; font-size: 0.7rem;">React (learning)</span>
-        <span style="background: #1F1C19; padding: 0.2rem 0.8rem; border-radius: 30px; font-size: 0.7rem;">Node.js/Express</span>
-        <span style="background: #1F1C19; padding: 0.2rem 0.8rem; border-radius: 30px; font-size: 0.7rem;">MongoDB</span>
-        <span style="background: #1F1C19; padding: 0.2rem 0.8rem; border-radius: 30px; font-size: 0.7rem;">JWT auth</span>
-      </div>
-      <p style="font-size: 0.8rem; color: #8E7E6E;"><strong>Status:</strong> Building core features – upload, comment, real-time resonance.</p>
-    </div>
-    <div style="flex: 0 0 70px; text-align: center;">
-      <span style="font-size: 2.5rem;">📚</span>
-    </div>
-  </div>
+> *"Knowledge is power — but shared knowledge is a movement."*
+
+🔗 **[View Project →](https://github.com/GhizlaneElouakili/mind-library)**
+
+---
+
+<!-- TECH STACK -->
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=A78BFA)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Currently Exploring**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 </div>
 
-<!-- GitHub Analytics: Professional Stats -->
-<h2 style="font-weight: 500; font-size: 1.5rem; border-left: 4px solid #C9B2A6; padding-left: 1rem; margin: 1rem 0 1rem 0; color: #ECE3DA;">
-  📊 GitHub Analytics
-</h2>
+---
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin: 1rem 0 1.5rem;">
-  <img src="https://github-readme-stats.vercel.app/api?username=GHIZLANE-ELOUAKILI&show_icons=true&hide_title=true&bg_color=0D0C0A&title_color=C9B2A6&icon_color=C9B2A6&text_color=B8A99A&border_radius=12&border_color=2E2A26&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHIZLANE-ELOUAKILI&layout=compact&bg_color=0D0C0A&title_color=C9B2A6&text_color=B8A99A&border_radius=12&border_color=2E2A26" width="48%" />
+<!-- GITHUB STATS -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GhizlaneElouakili&show_icons=true&theme=tokyonight&border_color=7C3AED&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&hide_border=false&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhizlaneElouakili&layout=compact&theme=tokyonight&border_color=7C3AED&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&hide_border=false" width="49%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=GhizlaneElouakili&theme=tokyonight&border=7C3AED&background=0D1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" width="60%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GhizlaneElouakili&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="95%"/>
+
 </div>
 
-<!-- Technical Environment & Tools -->
-<h2 style="font-weight: 500; font-size: 1.5rem; border-left: 4px solid #C9B2A6; padding-left: 1rem; margin: 1rem 0 0.5rem 0; color: #ECE3DA;">
-  🛠️ Environment & Workflow
-</h2>
+---
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; margin-bottom: 2rem;">
-  <span style="background: #1E1B18; padding: 0.3rem 1rem; border-radius: 40px;">VS Code · IntelliJ</span>
-  <span style="background: #1E1B18; padding: 0.3rem 1rem; border-radius: 40px;">GitHub Actions (CI basics)</span>
-  <span style="background: #1E1B18; padding: 0.3rem 1rem; border-radius: 40px;">Postman · Thunder Client</span>
-  <span style="background: #1E1B18; padding: 0.3rem 1rem; border-radius: 40px;">Linux / WSL · Bash scripting</span>
-  <span style="background: #1E1B18; padding: 0.3rem 1rem; border-radius: 40px;">TCP/IP · DNS analysis</span>
+<!-- FEATURED PROJECTS -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/GhizlaneElouakili/mind-library">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhizlaneElouakili&repo=mind-library&theme=tokyonight&border_color=7C3AED&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/GhizlaneElouakili/cours-js">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhizlaneElouakili&repo=cours-js&theme=tokyonight&border_color=7C3AED&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/GhizlaneElouakili/robots-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GhizlaneElouakili&repo=robots-website&theme=tokyonight&border_color=7C3AED&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" />
+</a>
+
 </div>
 
-<!-- Closing: Professional but with signature elegance -->
-<div align="center" style="margin: 2.2rem 0 1rem 0;">
-  <div style="width: 50px; height: 2px; background: #C9B2A6; margin: 0 auto 1rem;"></div>
-  <p style="color: #B8A99A; font-size: 0.85rem; font-weight: 300;">
-    “Precision is the hidden poetry of great code.”
-  </p>
-  <p style="color: #7F6E62; font-size: 0.7rem; margin-top: 0.8rem;">
-    Ghizlane Elouakili — Available for collaborations & technical conversations.
-  </p>
+<br/>
+
+| Project | Description | Stack |
+|---|---|---|
+| [🧠 mind-library](https://github.com/GhizlaneElouakili/mind-library) | Digital library meets social network — a knowledge ecosystem | HTML · CSS · JS |
+| [⚡ cours-js](https://github.com/GhizlaneElouakili/cours-js) | A structured JavaScript learning resource and practice hub | JavaScript |
+| [🤖 robots-website](https://github.com/GhizlaneElouakili/robots-website) | A sleek, animated showcase website about robotics & AI | HTML · CSS |
+
+---
+
+<!-- VISION -->
+
+## 🌌 Vision & Goals
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   "I'm not here to write code.                           ║
+║    I'm here to build things that change people's lives." ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
 </div>
 
-<div style="height: 3px; background: linear-gradient(90deg, #0D0C0A, #C9B2A6, #0D0C0A); width: 25%; margin: 0.8rem auto; opacity: 0.4;"></div>
+- 🌍 Launch **Mind Library** as a real product used by students across Africa and beyond
+- 💼 Grow into a **Full-Stack / Software Engineer** who builds at both depth and scale
+- 🛠️ Contribute to **open-source** projects that democratize education and technology
+- 🚀 Found or join a **tech startup** solving problems that actually matter
+- 🔬 Explore the intersection of **AI + Education + Community** for the next generation
+
+---
+
+<!-- CONTACT -->
+
+## 📡 Let's Connect
+
+<div align="center">
+
+*I'm always open to collaborations, ideas, and good conversations.*
+
+<a href="https://github.com/GhizlaneElouakili">
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-%23161B22?style=for-the-badge&logo=github&logoColor=A78BFA" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/ghizlane-elouakili">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:ghizlane@email.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Built%20with%20purpose.%20Shipped%20with%20passion.&fontSize=14&fontColor=A78BFA&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+</div>
